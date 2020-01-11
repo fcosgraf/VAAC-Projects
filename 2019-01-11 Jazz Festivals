@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fran Graf - Jazz Festival</title>
+        <meta charset="utf-8">
+    </head>
+
+    <body>
+        <img src="images/jazzfestivals.jpg">
+        <h1>Jazz Festivals Around the World</h1>
+        <p>Jazz music is celebrated Newport Jazz Festival, in Newport, Rhode Island all around and all through the year</p></b>
+        <p>Here is a small list of some of the <strong>Best Festivals.</strong></p>
+        <h2>United States</h2>
+            <ul>
+                <li>Jazz in July Festival, at 92<sup>nd</sup> Street Y in New Yorl City</li>
+                <li>Newport JAzz Festival, in Nweport, Rhode Island</li>
+                <li>Stanford Jazz Festival, Palo Alto, California</li>
+                <li>Atlanta Jazz Festival, Atlanta, Georgia</li>
+                <li>Satchmo Summer Fest, in New Orleans, Luisiana</li>
+            </ul>
+        <h2>Canada</h2>
+            <ul>
+                <li>Montreal International Jazz Festival in Montreal, Quebec</li>
+                <li>Ottawa Jazz Festival, in Ottawa, Ontario</li>
+                <li>Toronto Downtown Jazz Festival in Toronto, Ontario</li>
+                <li>Vancouver International JAzz Festival in Vancouver, british Columbia</li>
+            </ul>
+        <h2>Europe</h2>
+            <ul>
+                <li>France</li>
+                    <ul>
+                        <li>Jazz aux Remparts in Bayinne</li>
+                        <li>Paris Jazz Festival in the Bois de Vincennes</li>
+                        <li>La Villette Jazz Festival in Paris</li>
+                    </ul>
+                <li>Ireland</li>
+                    <ul>
+                        <li>Cork Jazz Festival in Cork City, Co. Cork</li>
+                        <li>Galway Jazz Festival in Galway City, Co. Galway</li>
+                        <li>Bray Jazz Festival in Bray, Co. Wicklow</li>
+                    </ul>
+            </ul>    
+        <p>Copyright &copy; 2019 round the World Music</p>
+    </body>
+</html>
